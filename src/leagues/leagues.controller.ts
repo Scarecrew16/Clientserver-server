@@ -29,7 +29,7 @@ export class LeaguesController {
     @UseInterceptors(
         FileInterceptor('image',{
             storage:diskStorage({
-                destination:'./logos',
+                destination:'./arts',
                 filename: customName
             })
         })
