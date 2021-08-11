@@ -1,6 +1,9 @@
 # compiled output
 /dist
 /node_modules
+/avatars
+/logos
+/arts 
 
 # Logs
 logs
